@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicYao播放器</string>
+    <string name="title_section1">单曲</string>
+    <string name="title_section2">歌手</string>
+    <string name="title_section3">专辑</string>
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_exit">退出</string>
+</resources>
